@@ -27,7 +27,7 @@ student1.increase_grade(5)
 student2.increase_grade(8)
 
 print(student1)
-print("Passing -", student1.is_passing)  # Output: True  
+print("Passing -", student1.is_passing)   
 print(student2)
 print("Passing -", student2.is_passing)
 
